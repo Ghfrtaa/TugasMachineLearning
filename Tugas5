@@ -1,0 +1,62 @@
+Nama	: Syahrul Ghifari Almubaraq
+NPM	: 41155050210006
+Kelas	: INF A1
+Tugas 5 
+1.	K-Nearest Neighbours (KNN)
+KNN adalah model machine learning yang dapat digunakan untuk melakukan prediksi berdasarkan kedekatan karakteristik dengan sejumlah tetangga terdekat.
+Prediksi yang dilakukan dapat diterapkan baik pada classification maupun regression tasks.
+1.1	persiapan sample dataset
+
+1.2	visualisasi dataset
+![Pemandangan](https://example.com/image.png)
+
+
+1.3	pengantar classification model
+setelah apa yang kita pahamin dan akan di terapkan knn untuk klasifikasi jenis kelamin dengan berat badan dan akan melakukan prediksi berdasarkan kemiripan karakteristik.
+1.4	preprocessing dataset dengan label Binarizer
+ 
+1.5	Training KNN Classification Model
+ 
+1.6	Prediksi dengan KNN Classification Model
+ 
+1.7	Visualisasi Nearest Neighbours
+ 
+1.8	Kalkulasi jarak dengan Euclidean Distance
+Kalkulasi Distance (Euclidean Distance)
+Distance = akar(t1 – t2)2 + (b1 - b2)2
+ 
+1.9	Evaluasi KNN Classification Model | Persiapan testing set
+Testing set 
+ 
+
+Prediksi terhadap testing set
+ 
+1.10	Evaluasi model dengan accuracy score
+Akurasi adalah proporsi contoh pengujian yang diklasifikasikan dengan benar
+Accuracy = tp + tn / tp+ tn + fp +fn
+
+ 
+1.11	Evaluasi model dengan recall score
+Presisi adalah proporsi contoh uji yang diprediksi positif yang benar-benar positif
+Precission = tp / tp + fp
+ 
+1.12	Evaluasi model dengan F1 Score
+Skor f1 adalah rata-rata harmonik dari presisi dan ingatan.
+F1 = 2x Precission x recall / precission + recall
+ 
+1.13	Evaluasi model dengan classification report
+ 
+1.14	Evaluasi model dengan Mathews Correlation Coeffcient
+- MCC merupakan alternatif dari skor F1 untuk mengukur kinerja pengklasifikasi biner
+- MCC pengklasifikasi sempurna adalah 1
+- Pengklasifikasi trivial yang memprediksi secara acak akan mendapat skor 0, dan pengklasifikasi yang salah total akan mendapat skor -1
+MCC = tp x tn + fp x fn / akar(tp + fp) x (tp + fn) x (tn + fp) x (tn + fn)
+ 
+2.	Support Vector Machine (SVM)
+2.1	Pengenalan Decision Boundary & Hyperlane
+2.2	Pengenalan support vector & Maximum margin
+2.3	Pengenalan kondisi linearly inseparable dan kernel tricks
+2.4	Pengenalan MNIST handwritten Digits Dataset
+2.5	Klasifikasi dengan support Vector Classifier | SVC
+2.6	Hyperparameter Tuning dengan Grid Search
+2.7	Evaluasi Model
