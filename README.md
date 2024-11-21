@@ -1,4 +1,4 @@
 # TugasMachineLearning
 Tempat Pengumpulan Tugas
-![Alt text]([https://1drv.ms/i/c/b777b8076b1eefdb/EdvvHmsHuHcggLcbZwAAAAABKvLdnfHazQe2JqsErCkh5A?e=RSV9VL])
+![Persiapan Simple Dataset](https://github.com/user-attachments/assets/a6ca5d97-1995-4516-9730-f382ab86856d)
 
