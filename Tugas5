@@ -6,7 +6,7 @@ Tugas 5
 KNN adalah model machine learning yang dapat digunakan untuk melakukan prediksi berdasarkan kedekatan karakteristik dengan sejumlah tetangga terdekat.
 Prediksi yang dilakukan dapat diterapkan baik pada classification maupun regression tasks.
 1.1	persiapan sample dataset
-
+![Persiapan Simple Dataset](https://github.com/user-attachments/assets/a6ca5d97-1995-4516-9730-f382ab86856d)
 1.2	visualisasi dataset
 ![Pemandangan](https://example.com/image.png)
 
