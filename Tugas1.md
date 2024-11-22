@@ -12,30 +12,24 @@ Jawaban!
 6.	Akun Github.
 	![akun github](https://github.com/user-attachments/assets/88941248-fe9b-45a7-8261-41741211b5be)
 8.	Tugas 5 Di pertemuan 1
--	Load Sample Dataset
+- Load Sample Dataset
   ![load sample dataset](https://github.com/user-attachments/assets/da9f00a8-f0c7-4658-aba1-4d95f84467a2)
--	Metadata | Deskripsi dari sampl dataset
+  - Metadata | Deskripsi dari sampl dataset
   ![metadata](https://github.com/user-attachments/assets/412ca651-bf31-4d05-a9b3-c8a60ae8eb40)
 -	Explanatory & Response Variables (feature & target)
 ![explanatory](https://github.com/user-attachments/assets/38864401-ee57-4e3e-b9e5-5f01cbc8433a)
--	Feature & Target Names 
+  - Feature & Target Names 
 Untuk memahami makna kita bisa pada gambar di bawah ini.
 ![feature   target Names](https://github.com/user-attachments/assets/a39081a2-852a-402f-9220-6dbb665f805b)
-
-
-
-
-
- 
--	Visualisasi Data
+  - Visualisasi Data
 Visualisasi Sepal length & Width
 ![visualisasi data](https://github.com/user-attachments/assets/a7095492-9fb2-4dd9-8c75-c0de0bd96cf5)
--	Training & Testing Dataset
+- Training & Testing Dataset
  ![training testing data](https://github.com/user-attachments/assets/219ae447-68f6-42ca-9011-d85a0d8e8bd8)
--	Load Iris Dataset sebagai Pandas DataFrame(DF)
+  - Load Iris Dataset sebagai Pandas DataFrame(DF)
   ![load iris](https://github.com/user-attachments/assets/2bd027bd-1d54-433d-9030-4617285210f0)
 6.	Tugas 6 Di pertemuan 1
--	Persiapan Dataset | Loading & Splitting dataset
+  - Persiapan Dataset | Loading & Splitting dataset
  ![persiapan dataset](https://github.com/user-attachments/assets/77c95df1-5547-47e5-9f07-a32360464506)
 -	Training Model Machine Learning
  ![training model1](https://github.com/user-attachments/assets/ff45ae97-7ebf-4c31-8e5a-ef191f8e4bea)
