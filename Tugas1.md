@@ -12,9 +12,9 @@ Jawaban!
 6.	Akun Github.
 	![akun github](https://github.com/user-attachments/assets/88941248-fe9b-45a7-8261-41741211b5be)
 8.	Tugas 5 Di pertemuan 1
-- Load Sample Dataset
+- Load Sample Dataset<br>
   ![load sample dataset](https://github.com/user-attachments/assets/da9f00a8-f0c7-4658-aba1-4d95f84467a2)
-  - Metadata | Deskripsi dari sampl dataset
+  - Metadata | Deskripsi dari sampl dataset<br>
   ![metadata](https://github.com/user-attachments/assets/412ca651-bf31-4d05-a9b3-c8a60ae8eb40)
 -	Explanatory & Response Variables (feature & target)
 ![explanatory](https://github.com/user-attachments/assets/38864401-ee57-4e3e-b9e5-5f01cbc8433a)
@@ -24,35 +24,35 @@ Untuk memahami makna kita bisa pada gambar di bawah ini.
   - Visualisasi Data
 Visualisasi Sepal length & Width
 ![visualisasi data](https://github.com/user-attachments/assets/a7095492-9fb2-4dd9-8c75-c0de0bd96cf5)
-- Training & Testing Dataset
+- Training & Testing Dataset<br>
  ![training testing data](https://github.com/user-attachments/assets/219ae447-68f6-42ca-9011-d85a0d8e8bd8)
-  - Load Iris Dataset sebagai Pandas DataFrame(DF)
+  - Load Iris Dataset sebagai Pandas DataFrame(DF)<br>
   ![load iris](https://github.com/user-attachments/assets/2bd027bd-1d54-433d-9030-4617285210f0)
 6.	Tugas 6 Di pertemuan 1
-  - Persiapan Dataset | Loading & Splitting dataset
+  - Persiapan Dataset | Loading & Splitting dataset<br>
  ![persiapan dataset](https://github.com/user-attachments/assets/77c95df1-5547-47e5-9f07-a32360464506)
--	Training Model Machine Learning
+-	Training Model Machine Learning<br>
  ![training model1](https://github.com/user-attachments/assets/ff45ae97-7ebf-4c31-8e5a-ef191f8e4bea)
  ![training model2](https://github.com/user-attachments/assets/bf51d279-2ae5-4e9d-b960-c7bc859d7e70)
 -	Evaluasi model Machine Learning
-Yang dimaksud disini adalah nilai akurasi dari model kita adalah sekitar 98%
+Yang dimaksud disini adalah nilai akurasi dari model kita adalah sekitar 98%<br>
  ![evaluasi model ML](https://github.com/user-attachments/assets/0c7bd963-0586-4a82-a59d-337893768e5a)
 
--	Pemanfaatan trained model machine learning
+-	Pemanfaatan trained model machine learning<br>
 ![pemanfaatan trainend](https://github.com/user-attachments/assets/13d4171a-88bb-4e6c-9ad1-0fd0374eb8e6)
--	Deploy model Machine Learning | Dumping dan Loading model Machine Learning
+-	Deploy model Machine Learning | Dumping dan Loading model Machine Learning<br>
  ![deploy ML](https://github.com/user-attachments/assets/b9b652a0-2fc2-455e-be11-1f3caad6b691)
 7.	Tugas 7 Di pertemuan 1
--	Persiapan sample dataset.
+-	Persiapan sample dataset.<br>
  ![persiapan sample dataset](https://github.com/user-attachments/assets/b0a6ccaf-d3e2-4087-8018-10f308c8f193)
--	Teknik data preprocessing 1:binarisation.
+-	Teknik data preprocessing 1:binarisation.<br>
  ![teknik data processing](https://github.com/user-attachments/assets/0a8ddc1b-115c-4ad9-aa09-6e2db79d291e)
--	Teknik data preprocessing 2:scaling.
+-	Teknik data preprocessing 2:scaling.<br>
  ![Scaling](https://github.com/user-attachments/assets/4911336d-9142-4b87-931a-6e42a25e03f6)
 -	Teknik data preprocessing 3: normalisation.
-Normalisasi L1 Least Absolute Deviations
+Normalisasi L1 Least Absolute Deviations<br>
  ![normalsitaion](https://github.com/user-attachments/assets/9118455f-d761-4cda-a17c-0488099b0799)
-Normalisasi 2 Least Squares
+Normalisasi 2 Least Squares<br>
  ![least squares](https://github.com/user-attachments/assets/fdddcef1-bd61-4b0d-8e8e-71942412a850)
 
 
